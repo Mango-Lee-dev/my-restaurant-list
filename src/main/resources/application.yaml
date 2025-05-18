@@ -7,3 +7,11 @@ naver:
   client:
     id: U00I97U7IVH1L2vfFdCs
     secret: 09OQpXPN6t
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+  api-docs:
+    path: /v3/api-docs
+

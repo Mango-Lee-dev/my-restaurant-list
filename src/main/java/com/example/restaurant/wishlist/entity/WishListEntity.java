@@ -14,7 +14,7 @@ public class WishListEntity extends MemoryDBEntity {
     private String title;
     private String category;
     private String address;
-    private String readAddress;
+    private String roadAddress;
     private String homepageLink;
     private String imageLink;
     private boolean isVisit;
